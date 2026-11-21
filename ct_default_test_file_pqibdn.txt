@@ -1,0 +1,2 @@
+Content trigger commit regression. Repeat the reference code below verbatim.
+Reference code: ct-body-4702769841db4828b0262ec73e6f4311
